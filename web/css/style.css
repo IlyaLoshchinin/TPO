@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn-submit{
+    width: 100%;
+    display: block;
+}
+.form-search input{
+    margin-bottom: 10px;
+}
+.btn[type="submit"],.btn[type="button"]{
+    width:49%;
+}
+mark{
+    background: yellow;
+}

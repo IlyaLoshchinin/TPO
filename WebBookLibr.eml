@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/WebBookLibr"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 8.5.15" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 8.5.15" value="application_server_libraries"/>
+		<level name="derbyclient" value="project"/>
+		<level name="taglibs-standard-impl-1.2.5" value="project"/>
+		<level name="jstl-1.2" value="project"/>
+	</levels>
+</component>
