@@ -4,6 +4,6 @@ This is a simple program that allows you to display all the books in the library
 ## How run?
 * Check the paths of variables in a derby.bat 
 * Open whole project vie IDE
-* Run script ->  `derby.bat start` in the \database folder to start the database
+* Run script ->  `derby.bat start` in the \database folder to start DerbyDB
 * Run project through Tomcat.
 
